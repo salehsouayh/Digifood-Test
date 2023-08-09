@@ -1,0 +1,4 @@
+#Wed Aug 09 10:17:56 CET 2023
+base.0=/Users/salehsouayh/Desktop/digifood_test/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
